@@ -5,7 +5,8 @@ Project duration: 1 week
 
 Project type: Scrum
 
-Description: 1) LockedMe  is a prototype of the application which allows the user to add any existing file by using the path of the file.
+Description:
+             1) LockedMe  is a prototype of the application which allows the user to add any existing file by using the path of the file.
              
              2) The files that are added is saved in new files.
              
